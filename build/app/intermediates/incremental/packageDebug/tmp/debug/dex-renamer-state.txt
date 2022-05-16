@@ -1,0 +1,4 @@
+#Mon May 16 15:36:46 IST 2022
+base.0=/Users/appke/FlutterProjects/flutter_list_click_details/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
